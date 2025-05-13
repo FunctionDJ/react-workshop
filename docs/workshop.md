@@ -13,6 +13,7 @@ style: |
 
 # React Workshop
 14.05.2025
+`git clone https://github.com/FunctionDJ/react-workshop.git`
 
 ### Ablauf + Links
 1) Präsentation + Aufgaben pro Kapitel (~2h)
