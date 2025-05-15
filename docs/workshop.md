@@ -122,7 +122,7 @@ function MyComponent() {
 }
 ```
 
-* #### 💡 Aufgabe: Rendere das Array `ccList`, welches aus Objekten besteht, als `<img>` mit `key`, `width` und `alt`
+* #### 💡 Aufgabe: Rendere das Array `ccList`, welches aus Objekten besteht, als `<img>` mit `key`, `style` und `alt`
   * in der Browser Console sollten keine Fehler geloggt werden :)
 
 ### 1.7 Events
